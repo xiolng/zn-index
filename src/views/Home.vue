@@ -29,21 +29,21 @@
             </Header>
             <Content class="layout-content">
                 <Carousel
-                style="height: 50vh;"
-                autoplay
+                        style="height: 50vh;"
+                        autoplay
                 >
-                <CarouselItem style="height: 50vh; background: #506b9e; line-height: 50vh; text-align: center; color: #fff; font-size: 30px;">
-                <div class="demo-carousel">构</div>
-                </CarouselItem>
-                <CarouselItem style="height: 50vh; background: #506b9e; line-height: 50vh; text-align: center; color: #fff; font-size: 30px;">
-                <div class="demo-carousel">建</div>
-                </CarouselItem>
-                <CarouselItem style="height: 50vh; background: #506b9e; line-height: 50vh; text-align: center; color: #fff; font-size: 30px;">
-                <div class="demo-carousel">中</div>
-                </CarouselItem>
-                <CarouselItem style="height: 50vh; background: #506b9e; line-height: 50vh; text-align: center; color: #fff; font-size: 30px;">
-                <div class="demo-carousel">。。。</div>
-                </CarouselItem>
+                    <CarouselItem style="height: 50vh; background: #506b9e; line-height: 50vh; text-align: center; color: #fff; font-size: 30px;">
+                        <div class="demo-carousel">构</div>
+                    </CarouselItem>
+                    <CarouselItem style="height: 50vh; background: #506b9e; line-height: 50vh; text-align: center; color: #fff; font-size: 30px;">
+                        <div class="demo-carousel">建</div>
+                    </CarouselItem>
+                    <CarouselItem style="height: 50vh; background: #506b9e; line-height: 50vh; text-align: center; color: #fff; font-size: 30px;">
+                        <div class="demo-carousel">中</div>
+                    </CarouselItem>
+                    <CarouselItem style="height: 50vh; background: #506b9e; line-height: 50vh; text-align: center; color: #fff; font-size: 30px;">
+                        <div class="demo-carousel">。。。</div>
+                    </CarouselItem>
                 </Carousel>
             </Content>
             <Footer class="layout-footer-center">2015-2019 &copy; znZheng.com</Footer>
@@ -57,7 +57,7 @@
 
     @Component
     export default class Home extends Vue {
-        private data() {
+        private data(): object {
             return {
                 value1: false
             }
