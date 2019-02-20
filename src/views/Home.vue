@@ -4,21 +4,13 @@
             <Menu mode="vertical" active-name="1" width="256px">
                 <div class="layout-logo"></div>
                 <div class="layout-nav">
-                    <MenuItem name="1">
-                        <Icon type="ios-navigate"></Icon>
-                        Item 1
-                    </MenuItem>
-                    <MenuItem name="2">
+                    <MenuItem name="index" to="/">
                         <Icon type="ios-keypad"></Icon>
-                        Item 2
+                        首页
                     </MenuItem>
-                    <MenuItem name="3">
-                        <Icon type="ios-analytics"></Icon>
-                        Item 3
-                    </MenuItem>
-                    <MenuItem name="4">
+                    <MenuItem name="blogs" to="/blogs">
                         <Icon type="ios-paper"></Icon>
-                        Item 4
+                        博客
                     </MenuItem>
                 </div>
             </Menu>
