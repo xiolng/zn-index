@@ -8,7 +8,7 @@
                         <Icon type="ios-keypad"></Icon>
                         首页
                     </MenuItem>
-                    <MenuItem name="blogs" to="/blogs">
+                    <MenuItem name="blogs" to="http://blog.znzheng.com">
                         <Icon type="ios-paper"></Icon>
                         博客
                     </MenuItem>
