@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.f4d2043178b90f4ac2302f8c63e24272.js"
+  "/precache-manifest.b78a7a3b879343244468ae165a5f417f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "zn-index"});
