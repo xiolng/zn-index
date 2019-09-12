@@ -25,10 +25,10 @@
                         autoplay
                 >
                     <CarouselItem style="height: 50vh; background: #506b9e; line-height: 50vh; text-align: center; color: #fff; font-size: 30px;">
-                        <div class="demo-carousel"> 构 </div>
+                        <div class="demo-carousel"> 展 </div>
                     </CarouselItem>
                     <CarouselItem style="height: 50vh; background: #506b9e; line-height: 50vh; text-align: center; color: #fff; font-size: 30px;">
-                        <div class="demo-carousel"> 建 </div>
+                        <div class="demo-carousel"> 示 </div>
                     </CarouselItem>
                     <CarouselItem style="height: 50vh; background: #506b9e; line-height: 50vh; text-align: center; color: #fff; font-size: 30px;">
                         <div class="demo-carousel"> 中 </div>
